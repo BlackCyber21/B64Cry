@@ -45,12 +45,12 @@
        Cryptografando com base64 senhas do arquivo /home/test/Desktop/CRACKPASS/HASHS/wordlist.txt
                  A saida fica salva em b64output.txt
 
-MTIzNDU2Nzg=
-c2VuaGExMjM=
-dnZ2dnZAMTIz
-bWluaGFzZW5oYQ==
-c2Vtc2VuaGE=
-ODc2NTQzMjE=
-MTExMTExMTE=
-MDAwMDAwMDA=
-YWFhYWFhYWE=
+# MTIzNDU2Nzg=
+# c2VuaGExMjM=
+# dnZ2dnZAMTIz
+# bWluaGFzZW5oYQ==
+# c2Vtc2VuaGE=
+# ODc2NTQzMjE=
+# MTExMTExMTE=
+# MDAwMDAwMDA=
+# YWFhYWFhYWE=
