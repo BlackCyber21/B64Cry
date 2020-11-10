@@ -1,17 +1,17 @@
 # B64Cry
 # Para sistemas Linux
-echo '
-#cat /home/test/Desktop/CRACKPASS/HASHS/wordlist.txt
-12345678
-senha123
-vvvvv@123
-minhasenha
-semsenha
-87654321
-11111111
-00000000
-aaaaaaaa
-'
+
+# cat /home/test/Desktop/CRACKPASS/HASHS/wordlist.txt
+# 12345678
+# senha123
+# vvvvv@123
+# minhasenha
+# semsenha
+# 87654321
+# 11111111
+# 00000000
+# aaaaaaaa
+
 
 ┌─[root@parrot]─[/home/test/Desktop/BASH/CRIA/OUT]
 └──╼ #./B64Cry.sh
