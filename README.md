@@ -13,7 +13,7 @@
 # aaaaaaaa
 
 
-┌─[root@parrot]─[/home/test/Desktop/BASH/CRIA/OUT]
+┌─[root@parrot]─[/home]
 └──╼ #./B64Cry.sh
 
 		 ____    __    _  _     ____
@@ -28,7 +28,7 @@
 
                 Modo de uso: ./B64Cry.sh wordlist.txt b64output
 
-┌─[root@parrot]─[/home/test/Desktop/BASH/CRIA/OUT]
+┌─[root@parrot]─[/home]
 └──╼ #./B64Cry.sh /home/test/Desktop/CRACKPASS/HASHS/wordlist.txt b64output
 
 		 ____    __    _  _     ____
