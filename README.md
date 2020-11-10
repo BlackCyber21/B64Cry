@@ -1,8 +1,7 @@
 # B64Cry
 # Para sistemas Linux
 
-┌─[✗]─[root@parrot]─[/home/test/Desktop/BASH/CRIA/OUT]
-└──╼ #cat /home/test/Desktop/CRACKPASS/HASHS/wordlist.txt
+#cat /home/test/Desktop/CRACKPASS/HASHS/wordlist.txt
 12345678
 senha123
 vvvvv@123
